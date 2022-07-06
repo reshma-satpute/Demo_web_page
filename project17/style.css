@@ -1,0 +1,85 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.outer
+{
+    margin: 50px auto;
+    height: 500px;
+    width: 900px;
+    background-image: url(./images/coolHue-FCCF31-F55555.png);
+}
+.inner
+{
+    position: absolute;
+    top: 95px;
+    left: 445px;
+    height: 400px;
+    width: 670px;
+   background-image: url(./images/coolHue-FD6585-0D25B9.png);
+   box-shadow: 10px 10px 10px 1px;
+}
+.title
+{
+    position: absolute;
+    top: 37px;
+    left: 201px;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.name
+{
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    height: 30px;
+    width: 350px;
+    border: none;
+    border-bottom: 1px;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px;
+}
+.email
+{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    height: 30px;
+    width: 350px;
+    border: 0;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px; 
+}
+.msg
+{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    height: 100px;
+    width: 350px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-top: 10px;
+    border: 0;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px; 
+}
+.btn
+{
+    position: absolute;
+    top: 348px;
+    left: 290px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    padding-top: 10px;
+    color: aliceblue;
+    background-color: rgb(255, 0, 119);
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 1px; 
+}
